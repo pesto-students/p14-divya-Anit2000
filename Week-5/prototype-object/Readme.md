@@ -1,5 +1,8 @@
 ## Practice: Prototype & Object
 
+**Sandbox soultion link**
+<https://codesandbox.io/s/keen-swartz-42tyxz?file=/src/index.mjs>
+
 ### Protecting the Object
 
 Create a JavaScript object called person with properties name, age, and email. Implement the following:
